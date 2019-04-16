@@ -1,0 +1,9 @@
+C:\Users\RUKHMA.6655082\Desktop\Coding Material\C# Work\Login\lab5\obj\Debug\netstandard2.0\lab5.csprojAssemblyReference.cache
+C:\Users\RUKHMA.6655082\Desktop\Coding Material\C# Work\Login\lab5\obj\Debug\netstandard2.0\lab5.csproj.CoreCompileInputs.cache
+C:\Users\RUKHMA.6655082\Desktop\Coding Material\C# Work\Login\lab5\obj\Debug\netstandard2.0\lab5.AssemblyInfoInputs.cache
+C:\Users\RUKHMA.6655082\Desktop\Coding Material\C# Work\Login\lab5\obj\Debug\netstandard2.0\lab5.AssemblyInfo.cs
+C:\Users\RUKHMA.6655082\Desktop\Coding Material\C# Work\Login\lab5\bin\Debug\netstandard2.0\lab5.deps.json
+C:\Users\RUKHMA.6655082\Desktop\Coding Material\C# Work\Login\lab5\bin\Debug\netstandard2.0\lab5.dll
+C:\Users\RUKHMA.6655082\Desktop\Coding Material\C# Work\Login\lab5\bin\Debug\netstandard2.0\lab5.pdb
+C:\Users\RUKHMA.6655082\Desktop\Coding Material\C# Work\Login\lab5\obj\Debug\netstandard2.0\lab5.dll
+C:\Users\RUKHMA.6655082\Desktop\Coding Material\C# Work\Login\lab5\obj\Debug\netstandard2.0\lab5.pdb
